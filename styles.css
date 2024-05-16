@@ -2,9 +2,9 @@
     --branco-principal: #cc1919;
     --cinza-secundario: #d48585;
     --botao-azul: #e5e7e9;
-    --cor-de-fundo: #200606;
+    --cor-de-fundo: #000000;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #460202;
+    --botao-azul-efeito: #5c0606;
 }
 
 body {
@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-   
+    background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
